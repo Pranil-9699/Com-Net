@@ -1,0 +1,11 @@
+Why use this command : 
+
+A) Netstat: This command is used to display information about active connections and listening sockets on a computer. It can be used to view the status of TCP and UDP connections, as well as display information about the routing table and network interfaces.
+
+B) Nmap: Nmap (short for "Network Mapper") is a network scanning tool that is used to discover hosts and services on a network, as well as to determine their state (e.g., whether they are up or down). It can be used to scan a single host or a range of hosts, and it provides a variety of options for customizing the scan.
+
+C) Nslookup: This command is used to query the Domain Name System (DNS) to resolve a hostname to an IP address, or vice versa. It can be used to troubleshoot DNS issues, such as when a hostname cannot be resolved to an IP address.
+
+D) Ping: This command is used to test the reachability of a host on a network and to measure the round-trip time for packets sent to the host. It works by sending a series of Internet Control Message Protocol (ICMP) echo request packets to the target host and waiting for a response.
+
+F) Who: This command is used to display information about users who are currently logged in to a system. It shows the user's login name, terminal name, and the time they logged in.
